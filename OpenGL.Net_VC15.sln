@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26720.2
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGL.Net_net35", "OpenGL.Net\OpenGL.Net_net35.csproj", "{ABB8DFA8-473A-4FC1-85C0-E21680772A58}"
 	ProjectSection(ProjectDependencies) = postProject
@@ -233,7 +233,10 @@ Global
 		Khronos.Net\Khronos.Net.projitems*{9e3018f3-770e-4cfd-87d0-baee66e9fe8f}*SharedItemsImports = 4
 		Khronos.Net\Khronos.Net.projitems*{a12173ce-c66c-4700-83be-edfce0b6be30}*SharedItemsImports = 4
 		Khronos.Net\Khronos.Net.projitems*{abb8dfa8-473a-4fc1-85c0-e21680772a58}*SharedItemsImports = 4
+		Khronos.Net\Khronos.Net.projitems*{b53a3b6c-d29a-4f71-8558-b9a5d090724f}*SharedItemsImports = 5
+		Khronos.Net\Khronos.Net.projitems*{c2105ab3-41bd-437d-957d-39fae1334461}*SharedItemsImports = 5
 		Khronos.Net\Khronos.Net.projitems*{c403b635-6b87-4540-8679-7889ed5d3360}*SharedItemsImports = 13
+		Khronos.Net\Khronos.Net.projitems*{cc75d61a-de09-42b7-b486-e46580dcf8df}*SharedItemsImports = 5
 		Khronos.Net\Khronos.Net.projitems*{e8e7d5ba-d0a6-4a6c-a748-c1aaaf2c0473}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
